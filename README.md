@@ -71,4 +71,6 @@ These are the core model-training, historical-quantile correction, projection-ge
 
 Dataset DOI: https://doi.org/10.11888/Terre.tpdc.303656
 
-The software license and versioned software citation will be recorded when the repository is released.
+The source code in this repository is licensed under the [MIT License](LICENSE). This license applies only to the code in this repository, not to the original third-party input datasets or the published CMOD LST data product.
+
+A versioned software DOI will be added after archiving an official GitHub release.
